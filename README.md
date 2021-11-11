@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @cbolton56 (but you can call me Courtney!)
+- 👋 Hi, I’m @cbolton56 
 - 👀 I’m interested in python, statistics, natural language processing, and visual analytics. 
-- 🌱 I’m currently learning Java syntax and backend programming!
-- 💞️ I’m looking to collaborate on open source projects in Java.
 - 📫 How to reach me: send me a dm!
 
 <!---
